@@ -16,7 +16,7 @@ JPDB is a fast and reliable Rest API based DBMS that is very efficient and easy 
 
 ### Release History
 
-*0.1.1 
+* 0.1.1 
      * CHANGE: Updated Readme.md
 
 * 0.1.0
